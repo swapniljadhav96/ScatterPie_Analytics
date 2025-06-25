@@ -1,1 +1,1 @@
-# ScatterPie_Analytics
+# ScatterPie_Analytics - Business Intelligence Analyst
